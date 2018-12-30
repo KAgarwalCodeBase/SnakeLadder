@@ -1,2 +1,2 @@
 Introduction
-  Snake Ladder is a very famous game in India. This is an indoor game which is mostly play along the Ludo.
+  Snake Ladder is a very famous game in India. It is an indoor game and a complementry of LUDO GAME.
